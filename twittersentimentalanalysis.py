@@ -44,7 +44,7 @@ from gensim.models.doc2vec import LabeledSentence
 
 """#Dataset"""
 
-!pip install scikit-learn-intelex
+#!pip install scikit-learn-intelex
 
 train = pd.read_csv('/content/sample_data/train_tweet.csv')
 test = pd.read_csv('/content/sample_data/test_tweets.csv')
