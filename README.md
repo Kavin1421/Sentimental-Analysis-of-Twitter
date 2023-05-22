@@ -42,3 +42,4 @@ Which trends are associated with either of the sentiments? Are they compatible w
 In this article, we learned how to approach a sentiment analysis problem. We started with preprocessing and exploration of data. Then we extracted features from the cleaned text using Bag-of-Words. Finally, we were able to build a couple of models using both the feature sets to classify the tweets and identified the most suitable model.
 
 Hope this project was useful!
+Any clarification Ping me @kkavinkumar24@gmail.com
